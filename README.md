@@ -119,5 +119,6 @@ details
 ## Acknowledgments
 
   - Hat tip to anyone whose code was used
+  - [PurpleBooth](https://github.com/PurpleBooth/a-good-readme-template)
   - Inspiration
   - etc
