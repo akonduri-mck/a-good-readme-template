@@ -1,6 +1,13 @@
-# Project Title
+# Fax UI Galvanize Project
 
-One Paragraph of project description goes here
+
+This project consists of 3 applications:
+  - [Fax UI - React](Insert Fax UI)
+  - [Login Service - Spring Boot](https://github.com/durgarepo2018/loginsvc)
+  - [Doc Viewer Service - Spring Boot](https://github.com/aeerlapati/DocViewerMongoService/tree/master)
+  
+ This projects consists of 4 repositories , 3 code repositories linked earlier and this one.
+
 
 This initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
