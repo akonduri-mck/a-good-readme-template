@@ -7,6 +7,15 @@ This project consists of 3 applications:
   - [Doc Viewer Service - Spring Boot](https://github.com/aeerlapati/DocViewerMongoService/tree/master)
   
  This projects consists of 4 repositories , 3 code repositories linked earlier and this one.
+ 
+ The reason that we follow this decoupled structure is:
+   - Each individual source code repository will deploy on CI/CD pipeline
+   - We intend to mix internal McKesson repositories with public repositories
+   
+ We intend on using this main repository for:
+   - Documenting Design Decisions
+   - Documenting next steps
+   - Documenting Learning Lessons
 
 
 This initially appeared on
